@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sy4306122@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10YDqpqn3-Zo8UsKJyPoYjFUYMbc0xMjN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p8HbYbjmUSZJskOsBnuqmc__mbDsF5C4/view?usp=sharing)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744 "  /></a> </p>
