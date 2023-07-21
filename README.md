@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Amit yadav</h1>
-<h3 align="center">Seeking a challenging role as a Full Stack Web Developer,where I can leverage my expertise in coding, software architecture and team collaboration to deliver highquality solutions that meet business objectives.</h3>
+<h3 align="center">Seeking a challenging role as Software Engineer,where I can leverage my expertise in coding, software architecture and team collaboration to deliver highquality solutions that meet business objectives.</h3>
 
-- 🌱 I’m currently learning **Java, Spring, Hibernate**
+- 🌱 I’m currently learning **Java, Spring, Hibernate,Flutter, Selenium**
 
 - 📫 How to reach me **sy4306122@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p8HbYbjmUSZJskOsBnuqmc__mbDsF5C4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YEnifiJxw9tvk6-xkFMJR5DVIi8nIivr/view?usp=drive_link)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744"  /></a> </p>
