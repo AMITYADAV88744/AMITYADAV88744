@@ -1,168 +1,228 @@
-<h1 align="center">Hi 👋🏻, I'm Amit Yadav</h1>
+# 👋 Hi, I'm Amit Yadav
 
-<h3 align="center">
-Mobile App & Backend Developer | Tech Lead | Flutter • Node.js • React • Scalable Product Development
-</h3>
+<h3 align="center">Senior Software Engineer | Tech Lead | Mobile & Backend Developer</h3>
 
 <p align="center">
-Passionate Full Stack Developer with expertise in building scalable mobile applications, backend systems, fintech products, SaaS platforms, and high-performance APIs.
+  Building scalable mobile applications, fintech platforms, SaaS products, and high-performance backend systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AMITYADAV88744&label=Profile%20Views&color=8B1E3F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AMITYADAV88744?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AMITYADAV88744?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AMITYADAV88744">
+    <img src="https://img.shields.io/badge/GitHub-AMITYADAV88744-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/amityadav88744/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 About Me
+
+I'm a passionate **Senior Software Engineer and Full Stack Developer** specializing in mobile application development, backend engineering, fintech solutions, and scalable product architecture.
+
+- 📱 Expert in cross-platform mobile development using Flutter.
+- ⚙️ Experienced in Node.js, Express.js, and scalable REST API development.
+- 🌐 Building modern web applications using React.js.
+- 💳 Experienced in fintech integrations, payment gateways, and authentication systems.
+- ☁️ Working with cloud infrastructure, Firebase, MongoDB, and production deployments.
+- 🏗️ Interested in system design, SaaS architecture, and high-performance applications.
+- 🤝 Passionate about engineering leadership, product development, and solving real-world problems.
+
+**My philosophy:** Build reliable products, write maintainable code, and create technology that makes a difference.
+
+---
+
+## 💼 Professional Experience
 
 ### 🏢 Senior Software Engineer — IATOS INC
-📍 Remote | Pune, Maharashtra, India  
-📅 Sep 2025 – Present
+**Sep 2025 – Present** | Remote | Pune, India
 
-- Working on Flutter-based fintech applications aligned with client requirements
-- Enhancing existing architecture and implementing scalable new features
-- Collaborating with cross-functional teams for product optimization
-- Improving application performance, stability, and user experience
+- Developing Flutter-based fintech applications aligned with business requirements.
+- Enhancing application architecture and implementing scalable features.
+- Collaborating with cross-functional teams for product optimization.
+- Improving application performance, stability, and user experience.
 
----
+**Technologies:** `Flutter` `Dart` `Fintech` `REST APIs` `Mobile Architecture`
 
 ### 🏢 Senior Software Engineer — GS Lab
-📍 Pune, Maharashtra, India | On-site  
-📅 May 2025 – Sep 2025
+**May 2025 – Sep 2025** | On-site | Pune, India
 
-- Worked on ABSL mobile applications for distributors and investors
-- Built scalable fintech features for portfolio management and investments
-- Developed and optimized Android & Flutter modules
-- Collaborated with enterprise teams on product enhancements
+- Worked on ABSL mobile applications for distributors and investors.
+- Developed fintech features for portfolio management and investments.
+- Optimized Android and Flutter modules.
+- Collaborated with enterprise engineering teams.
 
-#### Tech Stack:
-`Flutter` `Android` `Fintech` `REST APIs` `Firebase`
-
----
+**Technologies:** `Flutter` `Android` `Fintech` `REST APIs` `Firebase`
 
 ### 🏢 Senior Software Engineer — Pegasus InfoCorp
-📍 On-site  
-📅 May 2025 – Sep 2025
+**May 2025 – Sep 2025** | On-site
 
-- Developed cross-platform Flutter applications using Riverpod, BLoC, and GetX
-- Integrated Firebase services including Authentication, Firestore, and Notifications
-- Improved application scalability and state management architecture
-- Worked on enterprise-grade mobile application features
+- Developed cross-platform Flutter applications.
+- Implemented state management using Riverpod, BLoC, and GetX.
+- Integrated Firebase Authentication, Firestore, and notifications.
+- Improved application architecture and scalability.
 
-#### Tech Stack:
-`Flutter` `Riverpod` `BLoC` `Firebase` `GetX`
+**Technologies:** `Flutter` `Riverpod` `BLoC` `GetX` `Firebase`
 
----
+### 🏢 Full Stack Developer — YTC TechVentures
+**Oct 2024 – May 2025** | Remote | Pune, India
 
-### 🏢 Full Stack Developer — YTC Tech Ventures
-📍 Remote | Pune District, Maharashtra, India  
-📅 Oct 2024 – May 2025
+- Developed scalable mobile and web applications.
+- Built backend APIs, admin panels, dashboards, and authentication systems.
+- Managed product development from UI implementation to production deployment.
+- Worked on SaaS platforms, e-commerce systems, and AI-integrated solutions.
 
-- Developed scalable mobile and web applications for startups and businesses
-- Built admin panels, backend APIs, authentication systems, and dashboards
-- Managed complete product lifecycle from UI implementation to deployment
-- Worked on SaaS products, e-commerce systems, and AI-integrated solutions
+**Technologies:** `Flutter` `Node.js` `MongoDB` `React.js` `Firebase` `Express.js`
 
-#### Tech Stack:
-`Flutter` `Node.js` `MongoDB` `React.js` `Firebase` `Express.js`
+### 🏢 Flutter Developer — Metastic World Pvt. Ltd.
+**Sep 2023 – Oct 2024** | On-site | Noida, India
 
----
+- Developed Android and iOS applications using Flutter.
+- Integrated REST APIs and Firebase services.
+- Collaborated with UI/UX teams to deliver responsive interfaces.
+- Optimized application performance and deployment workflows.
 
-### 🏢 Flutter Developer — Metastic World Pvt Ltd
-📍 Noida, Uttar Pradesh, India | On-site  
-📅 Sep 2023 – Oct 2024
-
-- Built Android & iOS applications using Flutter
-- Integrated REST APIs and Firebase services
-- Worked closely with UI/UX teams to implement responsive interfaces
-- Optimized mobile app performance and deployment workflows
-
-#### Tech Stack:
-`Flutter` `Firebase` `Android Studio` `REST APIs`
+**Technologies:** `Flutter` `Dart` `Firebase` `Android Studio` `REST APIs`
 
 ---
 
-# 💻 Notable Projects
+## 🚀 Featured Projects
 
-## 🛡 ProtectHer
-A safety-focused application designed for security and emergency support systems.
+### 🛡️ ProtectHer
+A safety-focused mobile application designed to provide security and emergency support functionalities.
 
-## 🛍 Hindustan Wardrobe
-Developed scalable e-commerce mobile applications with modern UI and backend integration.
+### 👗 Hindustan Wardrobe
+A fashion rental marketplace connecting customers and clothing owners.
 
-## 📱 BMCS India
-Built user-friendly cross-platform applications using Flutter with real-time functionality.
+- Developed scalable mobile and web applications.
+- Implemented product management and rental booking workflows.
+- Integrated payment gateway and transaction management.
+- Built authentication, notifications, and backend services.
 
----
+🌐 [hindustanwardrobe.com](https://hindustanwardrobe.com)
 
-# ⚙️ Technical Skills
+### 🏠 Homesly
+A smart property management and hospitality technology platform.
 
-## 📱 Mobile Development
-- Flutter
-- Android
-- Dart
-- Java
-- Kotlin
+- Smart lock integration using TTLock APIs.
+- Automated guest access and passcode management.
+- Reservation and property management integrations.
+- Backend automation and webhook processing.
 
-## 🌐 Backend Development
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- REST APIs
-- JWT Authentication
-
-## 🖥 Frontend & Web
-- React.js
-- HTML
-- CSS
-- JavaScript
-
-## ☁️ Tools & Architecture
-- Firebase Notifications
-- Firestore
-- Git & GitHub
-- Figma Collaboration
-- State Management
-- SaaS Architecture
-- System Design
+### 📱 BMCS India
+Cross-platform mobile application development with modern interfaces and real-time functionality.
 
 ---
 
-# 📈 GitHub Stats
+## 🧰 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMITYADAV88744&show_icons=true&locale=en&layout=compact" />
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMITYADAV88744&show_icons=true&locale=en" />
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMITYADAV88744" />
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
----
+### ☁️ Cloud, DevOps & Tools
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 📊 GitHub Analytics
 
-- 📧 Email: **sy4306122@gmail.com**
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/amityadav88744/
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMITYADAV88744&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMITYADAV88744&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AMITYADAV88744&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMITYADAV88744&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-# 🚀 Currently Open For
+## 🤝 Let's Connect
 
-- Freelance Projects
-- Remote Opportunities
+<p>
+  <a href="mailto:sy4306122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/amityadav88744/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AMITYADAV88744">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Currently Open For
+
+- Freelance & Consulting Projects
+- Senior Software Engineering Opportunities
+- Remote & Hybrid Opportunities
 - Startup Collaborations
-- Mobile App Development
-- Backend/API Development
-- SaaS Product Development
+- Mobile Application Development
+- Backend & API Engineering
+- SaaS & Fintech Product Development
+
+---
+
+<p align="center">
+  <b>💻 Code. Build. Innovate. Repeat.</b>
+  <br/><br/>
+  <i>"Great software isn't just written. It's engineered to make a difference."</i>
+  <br/><br/>
+  ⭐ If you find my work interesting, consider following me and exploring my repositories!
+</p>
