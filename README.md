@@ -179,8 +179,13 @@ Cross-platform mobile application development with modern interfaces and real-ti
 
 ### 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AMITYADAV88744&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ### 📈 Contribution Activity
